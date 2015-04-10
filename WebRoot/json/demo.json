@@ -1,0 +1,18 @@
+{
+  "nodes":[
+    {"name":"Deng Xiaoping","group":1},
+    {"name":"Mao Zedong","group":1},
+    {"name":"Zhou Enlai","group":1},
+    {"name":"Bo Yibo","group":1},
+    {"name":"Bo Xilai","group":1},
+    {"name":"Jiang Jieshi","group":2},
+    {"name":"Jiang Jingguo","group":2}
+  ],
+  "links":[
+    {"source":0,"target":1,"value":1},
+    {"source":0,"target":2,"value":8},
+    {"source":0,"target":3,"value":10},
+    {"source":3,"target":4,"value":6},
+    {"source":5,"target":6,"value":1}
+  ]
+}
